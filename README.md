@@ -2,9 +2,12 @@
 使用Numpy和Pandas对电影数据集进行预处理，将探索出的结论用Tableau进行可视化，得出规律并展示出来。
  
 ## 第一步：清理数据和选择变量 
-● 清理缺失的信息，选择在可视化中需要进一步研究的最重要的变量。 
+
+● 清理缺失的信息，选择在可视化中需要进一步研究的最重要的变量。
+
 ● 列出你在可视化中会进一步研究的变量。你要研究的变量数量应该不超过 8 个。  
 从数据中挑选了一下 8 个特性来进行分析： 'budget','revenue','genres','production_companies','popularity','release_year','keywords','ori ginal_title' 
+
 ● 使用 Python 中的 Pandas 库来清洗数据。 
 
 
